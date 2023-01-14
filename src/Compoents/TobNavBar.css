@@ -1,0 +1,21 @@
+.top__Nav__Bar {
+  height: 40px;
+  background-color: #27272c;
+  z-index: 5;
+}
+.Top__Items a {
+  color: white;
+  padding: 9px;
+  align-items: center;
+  font-size: 14px;
+  margin-top: 2px;
+  text-decoration: none;
+}
+.Top__Items span svg {
+  font-size: 16px !important;
+}
+.Top__Items a:hover {
+}
+.Top__Items {
+  margin-top: 7px;
+}
